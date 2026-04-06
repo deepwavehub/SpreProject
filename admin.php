@@ -30,7 +30,7 @@
       <div class="container">
         <span class="eyebrow">Admin Dashboard</span>
         <h1>Submission review console</h1>
-        <p class="lead">Demo dashboard for inquiry and booking records captured from the unified contact form.</p>
+        <p class="lead">Dashboard for inquiry and booking records captured from the unified contact form.</p>
       </div>
     </section>
 
