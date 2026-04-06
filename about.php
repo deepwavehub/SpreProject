@@ -60,7 +60,7 @@
           </article>
           <article class="card">
             <h3>Cloud-Native Thinking</h3>
-            <p>Our solutions are designed with automation, scalability, observability, and maintainability in mind from day one.</p>
+            <p>Our solutions are designed with automation, scalability, observability, and maintainability in mind from first day.</p>
           </article>
           <article class="card">
             <h3>Education-Led Adoption</h3>
