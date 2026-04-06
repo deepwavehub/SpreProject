@@ -19,12 +19,12 @@
       </a>
       <button class="nav-toggle" aria-label="Open menu">☰</button>
       <nav class="site-nav">
-        <a href="index.html" class="active">Home</a>
-        <a href="about.html">About</a>
-        <a href="services.html">Services</a>
-        <a href="portfolio.html">Portfolio</a>
-        <a href="contact.html">Contact</a>
-        <a href="admin.html" class="btn btn-outline small">Admin</a>
+        <a href="index.php" class="active">Home</a>
+        <a href="about.php">About</a>
+        <a href="services.php">Services</a>
+        <a href="portfolio.php">Portfolio</a>
+        <a href="contact.php">Contact</a>
+        <a href="admin.php" class="btn btn-outline small">Admin</a>
       </nav>
     </div>
   </header>
